@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+opencv-python
+opencv-contrib-python
+mediapipe
+numpy
+python-multipart
+websockets
+python-dotenv
+Pillow
+ultralytics
+twilio
+scikit-learn
