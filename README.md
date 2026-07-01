@@ -135,3 +135,22 @@ EYE_AR_CONSEC_FRAMES = 48     # Higher = longer time before alert
 YAWN_AR_THRESHOLD = 0.6       # Lower = more sensitive to yawns
 PHONE_CONFIDENCE_THRESHOLD = 0.5  # YOLO confidence threshold
 ```
+
+## Setup Guide
+
+### Prerequisites
+- Python 3.9+
+- Node.js 16+
+- pip
+
+### Backend Setup
+
+cd backend
+pip install -r requirements.txt
+python main.py
+
+### Frontend Setup
+
+cd frontend
+npm install
+npm start
